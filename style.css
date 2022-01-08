@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header {
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+}
+
+.ingredients {
+    color: coral;
+}
+
+.steps
+{
+    color: darkgreen;
+}
+
+.fpic {
+    width: 500px;
+    height: auto;
+}
+
+.desc {
+    color: cornflowerblue;
+}
